@@ -1,6 +1,7 @@
 ### Información del Equipo
 - **Integrantes:**
-  - Nombre 1 - Rol 1
+  - Nombre 1 - agustin ly 
+
   - Nombre 2 - Rol 2
   - Nombre 3 - Rol 3
   - Nombre 4 - Rol 4
